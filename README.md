@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ExpressJS for HTTP requests
 - 💬 Ask me about Python (Django)
 - 📫 How to reach me: ranorkk@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm actually a mechanical engineer
 
 ### Interests:
