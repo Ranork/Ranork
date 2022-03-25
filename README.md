@@ -7,4 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm actually a mechanical engineer
 
-### Interests: ![NodeJS](https://badges.aleen42.com/src/node.svg)
+### Backend:
+
+![NodeJS](https://badges.aleen42.com/src/node.svg)
+![Python](https://badges.aleen42.com/src/python.svg)
