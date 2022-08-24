@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Akatron Network & AkonPlus
 - 🌱 I’m currently learning Docker
 - 💬 Ask me about Python (Django)
-- 📫 How to reach me: ranorkk@gmail.com
+- 📫 How to reach me: emir@akatron.net
 - ⚡ Fun fact: I'm actually a mechanical engineer
 
 ### Interests:
