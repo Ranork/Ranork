@@ -8,8 +8,8 @@
 
 ### Interests:
 
-![Python](https://badges.aleen42.com/src/python.svg)
 ![NodeJS](https://badges.aleen42.com/src/node.svg)
+![Python](https://badges.aleen42.com/src/python.svg)
 ![Java](https://badges.aleen42.com/src/java.svg)
 
 ### Fav IDE:
