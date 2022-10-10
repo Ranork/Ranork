@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Akatron Network](https://github.com/Akatron-Network) & AkonPlus
+- 🔭 I’m currently working on [Akatron Network](https://github.com/Akatron-Network)
 - 🌱 I’m currently learning Docker
 - 💬 Ask me about Python (Django)
 - 📫 How to reach me: emir@akatron.net
