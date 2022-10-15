@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Akatron Network](https://github.com/Akatron-Network)
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Domain-Driven design
 - 💬 Ask me about Python (Django)
 - 📫 How to reach me: emir@akatron.net
 - ⚡ Fun fact: I'm actually a mechanical engineer
