@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning NLP LLMs & Transformers
 - 💬 Ask me about NodeJS (Express and REST APIs)
 - 📫 How to reach me: emir@akatron.net
+- 📌 My NPM packages: [npmjs/~ranork](https://www.npmjs.com/~ranork)
 - ⚡ Fun fact: I'm actually a mechanical engineer
 
 ### Interests:
