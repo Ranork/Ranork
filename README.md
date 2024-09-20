@@ -16,3 +16,6 @@
 ### Fav IDE:
 
 ![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)
+
+
+![Emir Oguz's Stats](https://github-readme-stats.vercel.app/api?username=Ranork&hide=contribs,prs&theme=one_dark_pro&show_icons=true)
